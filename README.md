@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kheroo
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Python
 - Thats it :)
 
 <!---
